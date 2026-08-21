@@ -1,10 +1,10 @@
 # FOMO Controlled Vocabulary - Core Starter Set
 
-This starter set provides foundational terms for the FOMO system, organized by category. Each term follows the appropriate formatting convention and includes usage guidance.
+This starter set provides foundational terms for the FOMO system, organised by category. Each term follows the appropriate formatting convention and includes usage guidance.
 
 ## Level 1 Terms (Top-level Folders)
 
-These terms use capitalized, single-word format following macOS conventions:
+These terms use capitalised, single-word format following macOS conventions:
 
 | Term | Definition | Usage Context | Related Terms |
 |------|------------|---------------|--------------|
@@ -89,7 +89,7 @@ These terms relate to time or version control:
    - Apply temporal terms as prefixes with hyphens (e.g., `legacy-configs`)
 
 3. For tagging applications:
-   - Use the same terms without capitalization
+   - Use the same terms without capitalisation
    - Apply as individual tags rather than compound terms where possible
    - Example: For a client project draft, use tags `#client` + `#project` + `#draft` rather than `#client-project-draft`
 

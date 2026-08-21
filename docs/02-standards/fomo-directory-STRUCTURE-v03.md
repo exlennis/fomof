@@ -384,7 +384,6 @@ Create the base directory structure:
 
 ### 7.3 Symlink Establishment
 
-
 > Important: Symlinks behave differently with existing directories. If a target directory already exists, the `ln -sf` command will not replace the directory with a symlink. Instead, it will create the symlink inside that directory, leading to unexpected nested symlinks. Always verify that target directories do not exist before creating symlinks, or explicitly remove/rename them first. 
 
 1. Prepare target locations:
