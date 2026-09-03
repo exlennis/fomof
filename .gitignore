@@ -12,6 +12,9 @@
 *.log
 .env
 node_modules/
+CLAUDE.local.md
+.claude/settings.local.json
+workspace/
 
 # Font testing files
 tests/test-fonts/
